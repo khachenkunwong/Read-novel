@@ -5,6 +5,7 @@
 ## NoSQL
 
 ใช้ rest-full api โดยใช้ Django rest framework
+Api ยังใช้ไม่ได้เนื่องจากยังไม่เปิดเป็น public
 
 ## Splash screen
 [![244523424-397070428735028-3545628337549971312-n.jpg](https://i.postimg.cc/nV2F0MSN/244523424-397070428735028-3545628337549971312-n.jpg)](https://postimg.cc/8sFgCkSb)

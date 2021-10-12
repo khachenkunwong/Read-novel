@@ -1,4 +1,4 @@
-package com.example.read_novel
+package com.novel.read_novel
 
 import io.flutter.embedding.android.FlutterActivity
 
